@@ -1,0 +1,7 @@
+[
+  {"id": "A1", "size": "small", "distance": 5, "priority": 2},
+  {"id": "A2", "size": "small", "distance": 10, "priority": 1},
+  {"id": "B1", "size": "medium", "distance": 8, "priority": 3},
+  {"id": "B2", "size": "medium", "distance": 12, "priority": 2},
+  {"id": "C1", "size": "large", "distance": 3, "priority": 5}
+]

@@ -1,0 +1,16 @@
+timestamp,car_id,car_size,slot_id,slot_size,cost
+1763660253,car_101,small,A1,small,-15.0
+1763660253,car_102,medium,B1,medium,-22.0
+1763660253,car_103,large,C1,large,-47.0
+1763660253,car_104,small,A2,small,0.0
+1763660253,car_105,medium,B2,medium,-8.0
+1763660513,car_101,small,A1,small,-15.0
+1763660513,car_102,medium,B1,medium,-22.0
+1763660513,car_103,large,C1,large,-47.0
+1763660513,car_104,small,A2,small,0.0
+1763660513,car_105,medium,B2,medium,-8.0
+1763661063,car_101,small,A1,small,-15.0
+1763661063,car_102,medium,B1,medium,-22.0
+1763661063,car_103,large,C1,large,-47.0
+1763661063,car_104,small,A2,small,0.0
+1763661063,car_105,medium,B2,medium,-8.0
